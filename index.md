@@ -9,8 +9,9 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro:
-  - excerpt: ""
+intro: 
+  - Name: "Jeon Won Gyeong"
+  - Department: "Artificial intelligence"
 ---
 
 {% include feature_row id="intro" type="center" %}
